@@ -13,7 +13,7 @@ Welcome to my portfolio! I am a student from the Department of Information Techn
 6. [Experience](#experience)
 7. [Participations](#participation)
 8. [Coding Profiles](#coding-profiles)
-9. [Hobbies & Extracurricular Activities](#hobbies-&-extracurricular-activities)
+9. [Hobbies & Extracurricular Activities](#hobbies-extracurricular-activities)
 10. [Contact](#contact)
     
 ---
@@ -49,6 +49,18 @@ I am passionate about technology, coding, and solving complex problems. My focus
 
 ---
 
+## Skills
+- **Programming Languages:** Python, Java, C
+- **Web Development:** HTML, CSS, JavaScript , frontend development  
+- **Databases:** SQL, MongoDB  
+- **Version Control:** Git, GitHub
+- **Designing Tools:** Figma, Canva  
+- **Core Areas:** Data Structures, Algorithms, OOPS, Problem-Solving
+- **Critical Skills:** Logical Thinking, Critical Thinking
+- **Soft Skills:** Team Collaboration, Communication, Adaptability, Leadership, Time Management
+
+---
+
 ## Certifications
 - **[MongoDB for Students](https://github.com/Vijisdurai/Vijis-Durai-R-Portfolio/blob/main/certificate/course/mongo%20db_page-0001.jpg)** (ID: MDBqgbgvg5xzj)
 - **[Microsoft Azure AI Associate](https://github.com/Vijisdurai/Vijis-Durai-R-Portfolio/blob/main/certificate/course/IMG-20241022-WA0215.jpg)** (ID: S1853140)
@@ -78,29 +90,9 @@ I am passionate about technology, coding, and solving complex problems. My focus
 - [Code Blitz](https://github.com/Vijisdurai/Vijis-Durai-R-Portfolio/blob/main/certificate/participation/code%20blitz.jpg) | Saveetha Engineering College
 - [Programmer Quest](https://github.com/Vijisdurai/Vijis-Durai-R-Portfolio/blob/main/certificate/participation/programmer%20quest.pdf) | Saveetha Engineering College
 - [Hands-on Workshop in Product Design, Full-Stack Development, and DevOps](https://github.com/Vijisdurai/Vijis-Durai-R-Portfolio/blob/main/certificate/participation/workshop%20on%20devops%20and%20product%20design.jpg) | DRESTEIN'24 
----
-
-## Coding Profiles
-- [LeetCode](https://leetcode.com/u/vijishdurai006/)
-- [HackerRank](https://www.hackerrank.com/profile/vijishdurai006)
-- [CodeForce](https://codeforces.com/profile/Vijis_Durai)
-
----
-
-## Skills
-- **Programming Languages:** Python, Java, C
-- **Web Development:** HTML, CSS, JavaScript , frontend development  
-- **Databases:** SQL, MongoDB  
-- **Version Control:** Git, GitHub
-- **Designing Tools:** Figma, Canva  
-- **Core Areas:** Data Structures, Algorithms, OOPS, Problem-Solving
-- **Critical Skills:** Logical Thinking, Critical Thinking
-- **Soft Skills:** Team Collaboration, Communication, Adaptability, Leadership, Time Management
-
-## Hobbies & Extracurricular Activities  
-
-- **Hobbies:** Reading, Traveling, Photography , Watching Movies & Series  , Photo Editing , GYM 
-- **Extracurricular Activities:** Volunteering, Event Coordination, Sports (Batminton,Carrom) , Modelling 
+- Flipkart Grid 6.0 (2023 , 2024)
+- TCS CodeVita (2023 , 2024)
+  
 ---
 
 ## Experience
@@ -118,6 +110,19 @@ I am passionate about technology, coding, and solving complex problems. My focus
 ### [Overall Coordinator - Paper Presentation](https://github.com/Vijisdurai/Vijis-Durai-R-Portfolio/blob/main/certificate/achievements/paper%20presentation%20Overall%20Coordinator.jpg) | Drestin (2024)
 - ***Description:*** As the Overall Coordinator for the Paper Presentation event at Drestin 2024, I took charge of organizing and managing the event across four unique tracks, each representing different departments and domains. With a team of 8 dedicated track coordinators under my guidance, I ensured smooth planning and execution of all activities. This role allowed me to collaborate closely with teams, resolve challenges, and contribute to the event's success while refining my leadership and organizational skills.
 
+---
+
+## Coding Profiles
+- [LeetCode](https://leetcode.com/u/vijishdurai006/)
+- [HackerRank](https://www.hackerrank.com/profile/vijishdurai006)
+- [CodeForce](https://codeforces.com/profile/Vijis_Durai)
+
+---
+
+## Hobbies & Extracurricular Activities  
+
+- **Hobbies:** Reading, Traveling, Photography , Watching Movies & Series  , Photo Editing , GYM 
+- **Extracurricular Activities:** Volunteering, Event Coordination, Sports (Batminton,Carrom) , Modelling 
 ---
 
 ## Contact
