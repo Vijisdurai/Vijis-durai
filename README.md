@@ -13,7 +13,7 @@ Welcome to my portfolio! I am a student from the Department of Information Techn
 6. [Experience](#experience)
 7. [Participations](#participation)
 8. [Coding Profiles](#coding-profiles)
-9. [Hobbies & Extracurricular Activities](#hobbies-extracurricular-activities)
+9. [Hobbies & Extracurricular Activities](#hobbies-&-extracurricular-activities)
 10. [Contact](#contact)
     
 ---
