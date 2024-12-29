@@ -50,9 +50,10 @@ I am passionate about technology, coding, and solving complex problems. My focus
 
 ## Certifications
 - **[MongoDB for Students](https://github.com/Vijisdurai/Vijis-Durai-R-Portfolio/blob/main/certificate/course/mongo%20db_page-0001.jpg)** (ID: MDBqgbgvg5xzj)
-
 - **[Microsoft Azure AI Associate](https://github.com/Vijisdurai/Vijis-Durai-R-Portfolio/blob/main/certificate/course/IMG-20241022-WA0215.jpg)** (ID: S1853140)
 - **[IBM Z Skills](https://github.com/Vijisdurai/Vijis-Durai-R-Portfolio/blob/main/certificate/course/IBM%20Z%20SKILLS.png)**
+- **[IBM Z Security](https://github.com/Vijisdurai/Vijis-Durai-R-Portfolio/blob/main/certificate/course/ibm%20z%20security.png)**
+- **[Google Cloud](https://github.com/Vijisdurai/Vijis-Durai-R-Portfolio/blob/main/certificate/course/google%20cloud.pdf)**
 
 ---
 
@@ -75,35 +76,46 @@ I am passionate about technology, coding, and solving complex problems. My focus
 
 ## Coding Profiles
 - [LeetCode](https://leetcode.com/u/vijishdurai006/)
-- [HackerRank](#)
-- [CodeChef](#)
-- [GeeksforGeeks](#)
-- [AtCoder](#)
+- [HackerRank](https://www.hackerrank.com/profile/vijishdurai006)
+- [CodeForce](https://codeforces.com/profile/Vijis_Durai)
 
 ---
 
 ## Skills
-- **Programming Languages:** Python, Java, C, HTML, CSS
-- **Web Development:** HTML, CSS, JavaScript
-- **Database Management:** MySQL, MongoDB
+- **Programming Languages:** Python, Java, C
+- **Web Development:** HTML, CSS, JavaScript , frontend development  
+- **Databases:** SQL, MongoDB  
 - **Version Control:** Git, GitHub
-- **Other Skills:** Data Structures and Algorithms, OOPS, Team Collaboration, Problem-Solving
+- **Designing Tools:** Figma, Canva  
+- **Core Areas:** Data Structures, Algorithms, OOPS, Problem-Solving
+- **Critical Skills:** Logical Thinking, Critical Thinking
+- **Soft Skills:** Team Collaboration, Communication, Adaptability, Leadership, Time Management
 
+## Hobbies & Extracurricular Activities  
+
+- **Hobbies:** Reading, Traveling, Photography , Watching Movies & Series  , Photo Editing , GYM 
+- **Extracurricular Activities:** Volunteering, Event Coordination, Sports (Batminton,Carrom) , Modelling 
 ---
 
 ## Experience
-### Web Application Developer Intern | Arjun Vision Solutions
+### [Web Application Developer Intern](https://github.com/Vijisdurai/Vijis-Durai-R-Portfolio/blob/main/certificate/intern/arjun%20vision%20tech%20intern.pdf) | Arjun Vision Solutions
 - **Duration:** July 2024 - August 2024
-- **Responsibilities:** Developed websites using HTML, CSS, JavaScript. Managed version control with Git and facilitated team collaboration.
+- ***Description:*** Worked as a Web Developer Intern, gaining hands-on experience in solving real-world tasks and developing a project titled EdoScheduler. This project focuses on task management and productivity enhancement through features like task prioritization, habit tracking, and calendar-based note visualization. Built using HTML, CSS, JavaScript, and FullCalendar, the application ensures responsive design across devices, offering users an intuitive and seamless experience. Key functionalities include notifications for deadlines, task prioritization levels, and a visually appealing interface designed for enhanced productivity."
 
-### Volunteer Coordinator | Drestin – National Symposium
-- **Duration:** October 2024 - November 2024
-- **Responsibilities:** Coordinated communication and managed volunteer onboarding for a large-scale academic event.
+### [Python Programming Intern](https://github.com/Vijisdurai/Vijis-Durai-R-Portfolio/blob/main/certificate/intern/brain%20wave%20matrix_page-0001.jpg) | Brainwave Matrix Solutions
+- **Duration:** December 2024 (currently ongoing)
+- ***Description:*** Gained practical experience as a Python Programming Intern at Brainwave Matrix Solutions, working in an online environment. The internship focused on enhancing programming skills through hands-on application of knowledge and contributing to real-world projects. This role emphasized diligence, teamwork, and adherence to professional standards, equipping me with essential skills for career advancement in the tech industry.
+
+### Volunteer Coordinator - Technical Event: "Prompt Craft"  | Drestin (2023)
+- ***Description:*** Served as the Volunteer Coordinator for "Prompt Craft," a technical event held during Drestin 2023. The event focused on leveraging AI prompt engineering techniques to generate desired outputs from given inputs. Collaborated closely with senior organizers to manage participants effectively, ensuring smooth event operations. Proactively engaged with potential participants, significantly boosting participation and contributing to the event's success. This role enhanced my leadership, organizational, and communication skills while providing hands-on experience in AI-driven event coordination.
+
+### [Overall Coordinator - Paper Presentation](https://github.com/Vijisdurai/Vijis-Durai-R-Portfolio/blob/main/certificate/achievements/paper%20presentation%20Overall%20Coordinator.jpg) | Drestin (2024)
+- ***Description:*** As the Overall Coordinator for the Paper Presentation event at Drestin 2024, I took charge of organizing and managing the event across four unique tracks, each representing different departments and domains. With a team of 8 dedicated track coordinators under my guidance, I ensured smooth planning and execution of all activities. This role allowed me to collaborate closely with teams, resolve challenges, and contribute to the event's success while refining my leadership and organizational skills.
 
 ---
 
 ## Contact
 reach out to me at:
-- **What's App:** 908005064
+- **What's App:** +91 908005064
 - **Email:** [vijisduraioffical@gmail.com](mailto:vijisduraioffical@gmail.com)
 - **LinkedIn:** [Vijis Durai](https://www.linkedin.com/in/vijis-durai-r-801143298)
