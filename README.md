@@ -49,16 +49,15 @@ I am passionate about technology, coding, and solving complex problems. My focus
 ---
 
 ## Certifications
-- **MongoDB for Students** (ID: MDBqgbgvg5xzj)
-  ![Image Description](path/to/your/image.jpg)
+- **[MongoDB for Students](https://github.com/Vijisdurai/Vijis-Durai-R-Portfolio/blob/main/certificate/course/mongo%20db_page-0001.jpg)** (ID: MDBqgbgvg5xzj)
 
-- **Microsoft Azure AI Associate** (ID: S1853140)
-- **IBM Z Skills**
+- **[Microsoft Azure AI Associate](https://github.com/Vijisdurai/Vijis-Durai-R-Portfolio/blob/main/certificate/course/IMG-20241022-WA0215.jpg)** (ID: S1853140)
+- **[IBM Z Skills](https://github.com/Vijisdurai/Vijis-Durai-R-Portfolio/blob/main/certificate/course/IBM%20Z%20SKILLS.png)**
 
 ---
 
 ## Accomplishments
-- 1st Place in Code Blitz (Saveetha Engineering College)
+- 1st Place in [Code Blitz](https://github.com/Vijisdurai/Vijis-Durai-R-Portfolio/blob/main/certificate/achievements/code%20blitz.jpg) (Saveetha Engineering College)
 - 1st Place in Brand Artistry (TEXUS'24, SRM Institute of Science and Technology)
 - 3rd Place in Code Hunt (Cryptrix 2024, St. Joseph's College of Engineering)
 - Honorable Mention in Ideathon (Hack With Folks, 2023)
