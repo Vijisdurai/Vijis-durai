@@ -7,14 +7,15 @@ Welcome to my portfolio! I am a student from the Department of Information Techn
 ## Table of Contents
 1. [About Me](#about-me)
 2. [Mini Projects](#mini-projects)
-3. [Certifications](#certifications)
+3. [Skills](#skills)
 4. [Accomplishments](#accomplishments)
-5. [Participations](#participation)
-6. [Coding Profiles](#coding-profiles)
-7. [Skills](#skills)
-8. [Experience](#experience)
-9. [Contact](#contact)
-
+5. [Certifications](#certifications)
+6. [Experience](#experience)
+7. [Participations](#participation)
+8. [Coding Profiles](#coding-profiles)
+9. [Hobbies & Extracurricular Activities](#hobbies-extracurricular-activities)
+10. [Contact](#contact)
+    
 ---
 
 ## About Me
@@ -58,20 +59,25 @@ I am passionate about technology, coding, and solving complex problems. My focus
 ---
 
 ## Accomplishments
-- 1st Place in [Code Blitz](https://github.com/Vijisdurai/Vijis-Durai-R-Portfolio/blob/main/certificate/achievements/code%20blitz.jpg) (Saveetha Engineering College)
-- 1st Place in Brand Artistry (TEXUS'24, SRM Institute of Science and Technology)
-- 3rd Place in Code Hunt (Cryptrix 2024, St. Joseph's College of Engineering)
-- Honorable Mention in Ideathon (Hack With Folks, 2023)
-- Ranked 695th in the Amazon ML Challenge 2024 among 74,000+ teams.
+- 1st Place in [Virtual Maze](https://github.com/Vijisdurai/Vijis-Durai-R-Portfolio/blob/main/certificate/achievements/virtual%20maze.jpg) (Saveetha Engineering College).
+- 1st Place in [Brand Aristry](https://github.com/Vijisdurai/Vijis-Durai-R-Portfolio/blob/main/certificate/achievements/brand%20Aristry.jpg) (TEXUS'24, SRM Institute of Science and Technology).
+- 3rd Place in [Code Hunt](https://github.com/Vijisdurai/Vijis-Durai-R-Portfolio/blob/main/certificate/achievements/code%20hunt%20cryptrix.jpg) (Cryptrix 2024, St. Joseph's College of Engineering).
+- 3rd Place in [Chat Bot](https://github.com/Vijisdurai/Vijis-Durai-R-Portfolio/blob/main/certificate/achievements/Chat%20BOT.jpg) (DataRobtx, Shrimathi Devkunar Nanala Bhatt Vaishnav College).
+- Honorable Mention in the [Hack with Folks](https://github.com/Vijisdurai/Vijis-Durai-R-Portfolio/blob/main/certificate/achievements/best%20idea%20hack%20with%20folk.jpg) 2023 (Saveetha Engineering College).
+- Contributed to the Amazon ML Challenge 2024, securing 695th place out of 74,000+ teams.
 
 ---
 
 ## Participation
-- Participated in **Hack With Folks 2023**, showcasing innovative ideas for food reuse.
-- Contributed to the **Amazon ML Challenge 2024**, competing against 74,000+ teams.
-- Engaged in the **Cryptrix 2024 Code Hunt**, demonstrating advanced problem-solving skills.
-- Represented Saveetha Engineering College in **various coding and innovation events**.
-
+- [Starlight Coding Event](https://github.com/Vijisdurai/Vijis-Durai-R-Portfolio/blob/main/certificate/participation/abacus%20hackathon.pdf) | Anna University
+- [Codezilla](https://github.com/Vijisdurai/Vijis-Durai-R-Portfolio/blob/main/certificate/participation/codezilla.jpg) | Pinnacle 2K24 , Easwari Engineering College
+- [Creative Thinking Workshop](https://github.com/Vijisdurai/Vijis-Durai-R-Portfolio/blob/main/certificate/participation/IMG-20241022-WA0214.jpg) | DOT School of Design
+- [IBM Z Datathon 2024](https://github.com/Vijisdurai/Vijis-Durai-R-Portfolio/blob/main/certificate/participation/IBM%202024%20Datathon.png)
+- [SIH 2023 Internal Hackathon](https://github.com/Vijisdurai/Vijis-Durai-R-Portfolio/blob/main/certificate/participation/SIH%202023.jpg) | Saveetha Engineering College
+- [Seminar on Real-Time Databases in Firebase](https://github.com/Vijisdurai/Vijis-Durai-R-Portfolio/blob/main/certificate/participation/Vijis%20DURAI%20R%20.pdf) | Saveetha Engineering College
+- [Code Blitz](https://github.com/Vijisdurai/Vijis-Durai-R-Portfolio/blob/main/certificate/participation/code%20blitz.jpg) | Saveetha Engineering College
+- [Programmer Quest](https://github.com/Vijisdurai/Vijis-Durai-R-Portfolio/blob/main/certificate/participation/programmer%20quest.pdf) | Saveetha Engineering College
+- [Hands-on Workshop in Product Design, Full-Stack Development, and DevOps](https://github.com/Vijisdurai/Vijis-Durai-R-Portfolio/blob/main/certificate/participation/workshop%20on%20devops%20and%20product%20design.jpg) | DRESTEIN'24 
 ---
 
 ## Coding Profiles
