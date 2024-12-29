@@ -126,7 +126,7 @@ I am passionate about technology, coding, and solving complex problems. My focus
 ---
 
 ## Contact
-reach out to me at:
+*Reach out to me at:*
 - **What's App:** +91 908005064
 - **Email:** [vijisduraioffical@gmail.com](mailto:vijisduraioffical@gmail.com)
 - **LinkedIn:** [Vijis Durai](https://www.linkedin.com/in/vijis-durai-r-801143298)
