@@ -1,6 +1,6 @@
 # Vijis Durai R - Portfolio
 
-Welcome to my portfolio! I am a student from the Department of Information Technology, aspiring to make impactful contributions in the IT industry. This repository showcases my projects, coding skills, accomplishments, and problem-solving abilities.
+Welcome to my portfolio! I am a student from the Department of Information Technology, aspiring to make impactful contributions in the IT industry. This repository showcases my projects, coding skills, aaccolades, and problem-solving abilities.
 
 ---
 
@@ -70,7 +70,7 @@ I am passionate about technology, coding, and solving complex problems. My focus
 
 ---
 
-## Accomplishments
+## Accolades
 - 1st Place in [Virtual Maze](https://github.com/Vijisdurai/Vijis-Durai-R-Portfolio/blob/main/certificate/achievements/virtual%20maze.jpg) (Saveetha Engineering College).
 - 1st Place in [Brand Aristry](https://github.com/Vijisdurai/Vijis-Durai-R-Portfolio/blob/main/certificate/achievements/brand%20Aristry.jpg) (TEXUS'24, SRM Institute of Science and Technology).
 - 3rd Place in [Code Hunt](https://github.com/Vijisdurai/Vijis-Durai-R-Portfolio/blob/main/certificate/achievements/code%20hunt%20cryptrix.jpg) (Cryptrix 2024, St. Joseph's College of Engineering).
@@ -121,8 +121,8 @@ I am passionate about technology, coding, and solving complex problems. My focus
 
 ## Hobbies & Extracurricular Activities  
 
-- **Hobbies:** Reading, Traveling, Photography , Watching Movies & Series  , Photo Editing , GYM 
-- **Extracurricular Activities:** Volunteering, Event Coordination, Sports (Batminton,Carrom) , Modelling 
+- **Hobbies:** GYM, Reading, Traveling, Photography, Photo Editing 
+- **Extracurricular Activities:** Volunteering, Event Coordination, Sports (Batminton,Carrom), Modelling 
 ---
 
 ## Contact
