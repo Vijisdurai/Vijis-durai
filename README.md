@@ -1,6 +1,6 @@
 # Vijis Durai R - Portfolio
 
-Welcome to my portfolio! I am a student from the Department of Information Technology, aspiring to make impactful contributions in the IT industry. This repository showcases my projects, coding skills, aaccolades, and problem-solving abilities.
+Welcome to my portfolio! I am a student from the Department of Information Technology, aspiring to make impactful contributions in the IT industry. This repository showcases my projects, coding skills, accolades, and problem-solving abilities.
 
 ---
 
@@ -8,7 +8,7 @@ Welcome to my portfolio! I am a student from the Department of Information Techn
 1. [About Me](#about-me)
 2. [Mini Projects](#mini-projects)
 3. [Skills](#skills)
-4. [Accomplishments](#accomplishments)
+4. [Accolades](#accolades)
 5. [Certifications](#certifications)
 6. [Experience](#experience)
 7. [Participations](#participation)
