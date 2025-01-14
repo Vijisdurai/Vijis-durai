@@ -47,6 +47,12 @@ I am passionate about technology, coding, and solving complex problems. My focus
 - **Features:** To-do list, Notes, Habit tracker, Calendar view.
 - **GitHub Repository:** [Edo Scheduler](https://github.com/Vijisdurai/EdoScheduler.git)
 
+### ATM Interface Application
+- **Description:** Developed a fully functional ATM interface with a modern, user-friendly GUI for secure and efficient banking operations. Features include PIN-based authentication, balance inquiry, fund deposit and withdrawal, and transaction history viewing. Includes robust error handling and debugging support.
+- **Technologies Used:** Python, Tkinter, PIL (Pillow).
+- **Features:** Secure PIN-based login, Account information display, Balance inquiry, Deposit and withdrawal, Transaction history, Error handling, Responsive GUI.
+- **GitHub Repository:** [ATM Interface](https://github.com/Vijisdurai/ATM_Interface-using-python-)
+
 ---
 
 ## Skills
